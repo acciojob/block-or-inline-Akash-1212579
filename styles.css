@@ -1,2 +1,20 @@
 
 /* Your CSS Code here. */
+.container {
+      margin-bottom: 15px;
+      padding: 10px;
+      border: 1px solid #ccc;
+      background: #f9f9f9;
+    }
+
+    .answer {
+      display: block;
+      margin-top: 5px;
+      font-weight: bold;
+      color: darkblue;
+    }
+
+    /* Just for spacing clarity */
+    .container * {
+      margin: 4px;
+    }
